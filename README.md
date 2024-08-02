@@ -24,8 +24,8 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ### 🔝 Top Contributed Repo & Top Langs
 <p align="center">
-  <img width="51%" src="https://github-contributor-stats.vercel.app/api?username=curiouscoder00&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiouscoder00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="curiouscoder00" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=curiouscoder00&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiouscoder00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="curiouscoder00" />
 </p>
 
 ### ✍️ Random Dev Quote
