@@ -31,7 +31,7 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ### 🧑‍💻 Currently working on
 <div style="display: flex; flex-direction: column; justify-content: start;">
-[This is an external link to genome.gov](https://www.genome.gov/)
+[[This is an external link to genome.gov](https://www.genome.gov/)]
 </div>
 
 ### ✍️ Random Dev Quote
