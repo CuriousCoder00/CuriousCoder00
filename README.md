@@ -30,8 +30,8 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 </p>
 
 ### 🧑‍💻 Currently working on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curiouscoder23/)
-
+1. [PERCEPT UI](https://github.com/CuriousCoder00/percept-ui)
+2. [GRID CONNECT](https://github.com/CuriousCoder00/grid-connect)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
