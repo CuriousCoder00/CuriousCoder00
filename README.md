@@ -31,7 +31,7 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ### 🧑‍💻 Currently working on
 <div style="display: flex; flex-direction: column; justify-content: start;">
-   1. [PERCEPT UI](https://github.com/CuriousCoder00/percept-ui)
+   1. [PERCEPT UI](https://github.com/CuriousCoder00/percept-ui)!
 </div>
 
 ### ✍️ Random Dev Quote
