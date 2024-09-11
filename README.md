@@ -18,15 +18,15 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ### 📊 GitHub Stats:
 <p style="display: flex; justify-content: center; flex-wrap: wrap;" align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder00&theme=tokyonight" />
 </p>
 
 
 ### 🔝 Top Contributed Repo & Top Langs
 <p align="center">
-   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=curiouscoder00&limit=3&theme=dark&combine_all_yearly_contributions=true"/>
-   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiouscoder00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="curiouscoder00" />
+   <img width="51%" src="https://github-contributor-stats.vercel.app/api?username=curiouscoder00&limit=4&theme=dark&combine_all_yearly_contributions=true"/>
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiouscoder00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="curiouscoder00" />
 </p>
 
 ### ✍️ Random Dev Quote
