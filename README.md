@@ -13,13 +13,13 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ## 🏆 GitHub Trophies
 <p align="center">
-   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=curiouscoder00&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="curiouscoder00" />
+   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=curiouscoder00&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="curiouscoder00" />
 </p>
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder00&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder00&theme=tokyonight" />
 </p>
 
 <!--
