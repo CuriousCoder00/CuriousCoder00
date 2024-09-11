@@ -19,8 +19,8 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 ### 📊 GitHub Stats:
 <div align="center">
    <p align="center">
-     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
-     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder00&theme=tokyonight" />
+     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=curiouscoder00&show_icons=true&theme=tokyonight" />
+     <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=curiouscoder00&theme=tokyonight" />
    </p>
 </div>
 
