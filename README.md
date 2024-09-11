@@ -29,5 +29,11 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiouscoder00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="curiouscoder00" />
 </p>
 
+### 🧑‍💻 Currently working on
+<div style="display: flex; flex-direction: column; justify-content: start;">
+   <p>1. [Percept UI](https://github.com/CuriousCoder00/percept-ui)</p>
+   <p>2. [GRID CONNECT](https://github.com/CuriousCoder00/grid-connect)</p>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
