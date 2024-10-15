@@ -5,7 +5,7 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curiouscoder23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curiouscoder23/) [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fj1_kapil)](https://x.com/j1_kapil)
 
 
 ### 📊 GitHub Stats:
