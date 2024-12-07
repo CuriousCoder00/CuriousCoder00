@@ -15,8 +15,9 @@ Hi! My name is Kapil Kumar Jangid and I'm a recent CS University grad with Maste
 </p>
 
 ### 🧑‍💻 Currently working on
-1. [PERCEPT UI](https://github.com/CuriousCoder00/percept-ui)
-2. [GRID CONNECT](https://github.com/CuriousCoder00/grid-connect)
+1. [PERCEPT UI](https://perceptui.vercel.app)
+2. [GRID CONNECT](https://grid-connect.vercel.app)
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
